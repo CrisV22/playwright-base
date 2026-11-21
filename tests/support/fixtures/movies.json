@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas fica preso em uma fazenda isolada enquanto mortos-vivos atacam a região.",
+    "company": "Netflix",
+    "release_year": "1980",
+    "featured": false,
+    "cover": "fixtures/covers/noite-dos-mortos-vivos.png"
+  },
+  "O Despertar dos Mortos": {
+    "title": "O Despertar dos Mortos",
+    "overview": "Sobreviventes de um apocalipse zumbi refugiam-se em um shopping center enquanto a sociedade entra em colapso.",
+    "company": "United Film Distribution",
+    "release_year": "1978",
+    "featured": false,
+    "cover": "fixtures/covers/o-despertar-dos-mortos.png"
+  },
+  "Extermínio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus altamente contagioso escapar de um laboratório, um homem acorda em uma Londres deserta e infectada.",
+    "company": "20th Century Fox",
+    "release_year": "2002",
+    "featured": false,
+    "cover": "fixtures/covers/exterminio.png"
+  },
+  "Todo Mundo Quase Morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um vendedor sem perspectivas tenta reconquistar a namorada e proteger a mãe quando zumbis invadem Londres.",
+    "company": "Universal Pictures",
+    "release_year": "2004",
+    "featured": false,
+    "cover": "fixtures/covers/todo-mundo-quase-morto.png"
+  },
+  "Madrugada dos Mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes busca abrigo em um shopping fortificado após uma epidemia rápida e violenta.",
+    "company": "Universal Pictures",
+    "release_year": "2004",
+    "featured": false,
+    "cover": "fixtures/covers/madrugada-dos-mortos.png"
+  },
+  "Resident Evil: O Hóspede Maldito": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma unidade especial infiltra-se em um laboratório subterrâneo onde um vírus mortal transformou a equipe em zumbis.",
+    "company": "Screen Gems",
+    "release_year": "2002",
+    "featured": false,
+    "cover": "fixtures/covers/resident-evil-o-hospede-maldito.png"
+  },
+  "Zumbilândia": {
+    "title": "Zumbilândia",
+    "overview": "Em um mundo dominado por zumbis, um jovem medroso e um caçador implacável unem forças para sobreviver.",
+    "company": "Columbia Pictures",
+    "release_year": "2009",
+    "featured": false,
+    "cover": "fixtures/covers/zumbilandia.png"
+  },
+  "Guerra Mundial Z": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU é chamado para investigar a propagação de um vírus mortal que transforma as vítimas em zumbis, ameaçando dizimar a população mundial.",
+    "company": "Paramount Pictures",
+    "release_year": "2013",
+    "featured": false,
+    "cover": "fixtures/covers/guerra-mundial-z.png"
+  },
+  "Invasão Zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Passageiros de um trem-bala rumo a Busan lutam pela sobrevivência durante um surto zumbi na Coreia do Sul.",
+    "company": "Next Entertainment World",
+    "release_year": "2016",
+    "featured": false,
+    "cover": "fixtures/covers/invasao-zumbi.png"
+  },
+  "A Volta dos Mortos-Vivos": {
+    "title": "A Volta dos Mortos-Vivos",
+    "overview": "Uma substância química liberada acidentalmente reanima cadáveres em um cemitério e em um depósito médico.",
+    "company": "Orion Pictures",
+    "release_year": "1985",
+    "featured": false,
+    "cover": "fixtures/covers/a-volta-dos-mortos-vivos.png"
+  }
+}
